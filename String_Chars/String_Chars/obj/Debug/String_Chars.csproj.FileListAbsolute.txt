@@ -1,0 +1,7 @@
+C:\Users\colli\OneDrive\Desktop\C-SHARP\String_Chars\String_Chars\bin\Debug\String_Chars.exe.config
+C:\Users\colli\OneDrive\Desktop\C-SHARP\String_Chars\String_Chars\bin\Debug\String_Chars.exe
+C:\Users\colli\OneDrive\Desktop\C-SHARP\String_Chars\String_Chars\bin\Debug\String_Chars.pdb
+C:\Users\colli\OneDrive\Desktop\C-SHARP\String_Chars\String_Chars\obj\Debug\String_Chars.csproj.AssemblyReference.cache
+C:\Users\colli\OneDrive\Desktop\C-SHARP\String_Chars\String_Chars\obj\Debug\String_Chars.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive\Desktop\C-SHARP\String_Chars\String_Chars\obj\Debug\String_Chars.exe
+C:\Users\colli\OneDrive\Desktop\C-SHARP\String_Chars\String_Chars\obj\Debug\String_Chars.pdb
