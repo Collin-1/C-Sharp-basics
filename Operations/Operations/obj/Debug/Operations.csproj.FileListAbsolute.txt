@@ -1,0 +1,7 @@
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Operations\Operations\bin\Debug\Operations.exe.config
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Operations\Operations\bin\Debug\Operations.exe
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Operations\Operations\bin\Debug\Operations.pdb
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Operations\Operations\obj\Debug\Operations.csproj.AssemblyReference.cache
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Operations\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Operations\Operations\obj\Debug\Operations.exe
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Operations\Operations\obj\Debug\Operations.pdb

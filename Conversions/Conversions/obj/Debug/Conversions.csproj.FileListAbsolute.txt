@@ -1,0 +1,7 @@
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Conversions\Conversions\bin\Debug\Conversions.exe.config
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Conversions\Conversions\bin\Debug\Conversions.exe
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Conversions\Conversions\bin\Debug\Conversions.pdb
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Conversions\Conversions\obj\Debug\Conversions.csproj.AssemblyReference.cache
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Conversions\Conversions\obj\Debug\Conversions.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Conversions\Conversions\obj\Debug\Conversions.exe
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Conversions\Conversions\obj\Debug\Conversions.pdb

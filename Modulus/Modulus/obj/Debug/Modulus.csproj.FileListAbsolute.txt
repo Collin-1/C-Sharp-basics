@@ -1,0 +1,7 @@
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Modulus\Modulus\bin\Debug\Modulus.exe.config
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Modulus\Modulus\bin\Debug\Modulus.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Modulus\Modulus\bin\Debug\Modulus.pdb
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Modulus\Modulus\obj\Debug\Modulus.csproj.AssemblyReference.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Modulus\Modulus\obj\Debug\Modulus.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Modulus\Modulus\obj\Debug\Modulus.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Modulus\Modulus\obj\Debug\Modulus.pdb

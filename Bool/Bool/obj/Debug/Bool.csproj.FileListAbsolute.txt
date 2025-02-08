@@ -1,0 +1,7 @@
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Bool\Bool\bin\Debug\Bool.exe.config
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Bool\Bool\bin\Debug\Bool.exe
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Bool\Bool\bin\Debug\Bool.pdb
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Bool\Bool\obj\Debug\Bool.csproj.AssemblyReference.cache
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Bool\Bool\obj\Debug\Bool.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Bool\Bool\obj\Debug\Bool.exe
+C:\Users\colli\OneDrive\Desktop\C-SHARP\Bool\Bool\obj\Debug\Bool.pdb
