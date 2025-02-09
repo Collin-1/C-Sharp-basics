@@ -1,0 +1,7 @@
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\TryParse\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\TryParse\TryParse\bin\Debug\TryParse.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\TryParse\TryParse\bin\Debug\TryParse.pdb
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\TryParse\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\TryParse\TryParse\obj\Debug\TryParse.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\TryParse\TryParse\obj\Debug\TryParse.pdb
