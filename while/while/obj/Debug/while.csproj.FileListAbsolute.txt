@@ -1,0 +1,7 @@
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\while\while\bin\Debug\@while.exe.config
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\while\while\bin\Debug\@while.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\while\while\bin\Debug\@while.pdb
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\while\while\obj\Debug\while.csproj.AssemblyReference.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\while\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\while\while\obj\Debug\@while.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\while\while\obj\Debug\@while.pdb

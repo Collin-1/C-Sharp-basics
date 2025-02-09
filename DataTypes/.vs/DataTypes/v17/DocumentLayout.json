@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\colli\\OneDrive\\Desktop\\C-SHARP\\DataTypes\\",
+  "WorkspaceRootPath": "C:\\Users\\colli\\OneDrive\\Desktop\\C-Sharp-basics\\DataTypes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5001D27-20DC-4723-A9D6-E10033C211CE}|DataTypes\\DataTypes.csproj|c:\\users\\colli\\onedrive\\desktop\\c-sharp\\datatypes\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5001D27-20DC-4723-A9D6-E10033C211CE}|DataTypes\\DataTypes.csproj|c:\\users\\colli\\onedrive\\desktop\\c-sharp-basics\\datatypes\\datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5001D27-20DC-4723-A9D6-E10033C211CE}|DataTypes\\DataTypes.csproj|solutionrelative:datatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\colli\\OneDrive\\Desktop\\C-SHARP\\DataTypes\\DataTypes\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\colli\\OneDrive\\Desktop\\C-Sharp-basics\\DataTypes\\DataTypes\\Program.cs",
               "RelativeDocumentMoniker": "DataTypes\\Program.cs",
-              "ToolTip": "C:\\Users\\colli\\OneDrive\\Desktop\\C-SHARP\\DataTypes\\DataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\colli\\OneDrive\\Desktop\\C-Sharp-basics\\DataTypes\\DataTypes\\Program.cs",
               "RelativeToolTip": "DataTypes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T14:13:02.951Z",
               "EditorCaption": ""

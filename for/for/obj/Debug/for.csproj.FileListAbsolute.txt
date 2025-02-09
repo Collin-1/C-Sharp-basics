@@ -1,0 +1,7 @@
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\for\for\bin\Debug\@for.exe.config
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\for\for\bin\Debug\@for.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\for\for\bin\Debug\@for.pdb
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\for\for\obj\Debug\for.csproj.AssemblyReference.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\for\for\obj\Debug\for.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\for\for\obj\Debug\@for.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\for\for\obj\Debug\@for.pdb
