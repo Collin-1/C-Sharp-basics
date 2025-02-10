@@ -1,0 +1,7 @@
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.AssemblyReference.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\Exercise3\Exercise3\obj\Debug\Exercise3.pdb

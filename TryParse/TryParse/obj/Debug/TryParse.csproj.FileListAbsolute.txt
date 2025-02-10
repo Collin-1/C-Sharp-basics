@@ -5,3 +5,10 @@ C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\TryParse\TryParse\obj\Debug\TryPa
 C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
 C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\TryParse\TryParse\obj\Debug\TryParse.exe
 C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\TryParse\TryParse\obj\Debug\TryParse.pdb
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\TryParse\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\TryParse\TryParse\bin\Debug\TryParse.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\TryParse\TryParse\bin\Debug\TryParse.pdb
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\TryParse\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\TryParse\TryParse\obj\Debug\TryParse.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\TryParse\TryParse\obj\Debug\TryParse.pdb

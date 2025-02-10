@@ -10,12 +10,25 @@ namespace TryParse
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter a number: ");
-            string numInput = Console.ReadLine();
-            int num = Convert.ToInt32(numInput);
+            bool success = true;
+            while (success)
+            {
+                Console.Write("Enter a number: ");
+                string numInput = Console.ReadLine(); //10h
 
-            Console.WriteLine(num);
 
+                if (int.TryParse(numInput, out int num))
+                {
+                    Console.WriteLine("Succes "+num);
+                    success = false;
+                }
+                else
+                {   
+                    Console.WriteLine("Failed to convert " + numInput);
+                }
+            }
+
+            
 
             Console.ReadLine();
         }

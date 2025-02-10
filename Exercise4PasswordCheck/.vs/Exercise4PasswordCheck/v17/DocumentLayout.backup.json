@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Collin.Makwala\\OneDrive - Ogilvy\\Documents\\Personal Projects\\C-Sharp-basics\\Exercise4PasswordCheck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50BCC43E-68A4-428D-8BC4-4F719DC7C29E}|Exercise4PasswordCheck\\Exercise4PasswordCheck.csproj|c:\\users\\collin.makwala\\onedrive - ogilvy\\documents\\personal projects\\c-sharp-basics\\exercise4passwordcheck\\exercise4passwordcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BCC43E-68A4-428D-8BC4-4F719DC7C29E}|Exercise4PasswordCheck\\Exercise4PasswordCheck.csproj|solutionrelative:exercise4passwordcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Collin.Makwala\\OneDrive - Ogilvy\\Documents\\Personal Projects\\C-Sharp-basics\\Exercise4PasswordCheck\\Exercise4PasswordCheck\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise4PasswordCheck\\Program.cs",
+              "ToolTip": "C:\\Users\\Collin.Makwala\\OneDrive - Ogilvy\\Documents\\Personal Projects\\C-Sharp-basics\\Exercise4PasswordCheck\\Exercise4PasswordCheck\\Program.cs",
+              "RelativeToolTip": "Exercise4PasswordCheck\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADgvxgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T10:24:46.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

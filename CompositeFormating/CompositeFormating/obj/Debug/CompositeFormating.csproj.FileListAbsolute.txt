@@ -1,0 +1,7 @@
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\CompositeFormating\CompositeFormating\bin\Debug\CompositeFormating.exe.config
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\CompositeFormating\CompositeFormating\bin\Debug\CompositeFormating.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\CompositeFormating\CompositeFormating\bin\Debug\CompositeFormating.pdb
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\CompositeFormating\CompositeFormating\obj\Debug\CompositeFormating.csproj.AssemblyReference.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\CompositeFormating\CompositeFormating\obj\Debug\CompositeFormating.csproj.CoreCompileInputs.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\CompositeFormating\CompositeFormating\obj\Debug\CompositeFormating.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\CompositeFormating\CompositeFormating\obj\Debug\CompositeFormating.pdb
