@@ -1,0 +1,7 @@
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\List\List\bin\Debug\List.exe.config
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\List\List\bin\Debug\List.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\List\List\bin\Debug\List.pdb
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\List\List\obj\Debug\List.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\List\List\obj\Debug\List.pdb
