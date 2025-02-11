@@ -1,0 +1,7 @@
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Structures\Structures\bin\Debug\Structures.exe.config
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Structures\Structures\bin\Debug\Structures.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Structures\Structures\bin\Debug\Structures.pdb
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Structures\Structures\obj\Debug\Structures.csproj.AssemblyReference.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Structures\Structures\obj\Debug\Structures.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Structures\Structures\obj\Debug\Structures.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Structures\Structures\obj\Debug\Structures.pdb

@@ -1,0 +1,7 @@
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Methods\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Methods\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Methods\Methods\obj\Debug\Methods.pdb

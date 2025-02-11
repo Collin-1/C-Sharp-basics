@@ -1,0 +1,7 @@
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Contructor\Contructor\bin\Debug\Contructor.exe.config
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Contructor\Contructor\bin\Debug\Contructor.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Contructor\Contructor\bin\Debug\Contructor.pdb
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Contructor\Contructor\obj\Debug\Contructor.csproj.AssemblyReference.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Contructor\Contructor\obj\Debug\Contructor.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Contructor\Contructor\obj\Debug\Contructor.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\Contructor\Contructor\obj\Debug\Contructor.pdb

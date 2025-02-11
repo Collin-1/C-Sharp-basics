@@ -1,0 +1,7 @@
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\GettersSetters\GettersSetters\bin\Debug\GettersSetters.exe.config
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\GettersSetters\GettersSetters\bin\Debug\GettersSetters.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\GettersSetters\GettersSetters\bin\Debug\GettersSetters.pdb
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\GettersSetters\GettersSetters\obj\Debug\GettersSetters.csproj.AssemblyReference.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\GettersSetters\GettersSetters\obj\Debug\GettersSetters.csproj.CoreCompileInputs.cache
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\GettersSetters\GettersSetters\obj\Debug\GettersSetters.exe
+C:\Users\colli\OneDrive\Desktop\C-Sharp-basics\GettersSetters\GettersSetters\obj\Debug\GettersSetters.pdb
