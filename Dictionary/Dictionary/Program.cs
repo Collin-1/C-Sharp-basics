@@ -26,9 +26,41 @@ namespace Dictionary
                 Console.WriteLine(names.Values.ElementAt(i));
             }*/
 
-            for (int i = 1; i < names.Count; i++)
+            for (int i = 0; i < names.Count; i++)
             {
-                Console.WriteLine(names.ElementAt(i));
+                KeyValuePair<int, string> pair =  names.ElementAt(i);
+                Console.WriteLine($"{pair.Key} : {pair.Value}");
+            }
+
+            Console.WriteLine();
+            foreach (KeyValuePair<int, string> item in names) // (var item in name) also correct
+            {
+                Console.WriteLine($"{item.Key} : {item.Value}");
+            }
+
+            //--------------------------------------------
+
+            Dictionary<string, string> teachers = new Dictionary<string, string>()
+            {
+                { "Math", "Collin" },
+                { "Science", "Aba" }
+            };
+
+            if (teachers.TryGetValue("math", out string teacher))
+            {
+                Console.WriteLine(teacher);
+            }
+            else
+            {
+                Console.WriteLine(" Teacher not found!");
+            }
+
+            teachers["Biology"] = "Mark";
+
+            Console.WriteLine();
+            for (int i = 0; i < teachers.Count; i++)
+            {
+                Console.WriteLine(teachers.ElementAt(i));
             }
 
             Console.ReadLine();

@@ -1,0 +1,7 @@
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\ReturnTypeFunction\ReturnTypeFunction\bin\Debug\ReturnTypeFunction.exe.config
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\ReturnTypeFunction\ReturnTypeFunction\bin\Debug\ReturnTypeFunction.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\ReturnTypeFunction\ReturnTypeFunction\bin\Debug\ReturnTypeFunction.pdb
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\ReturnTypeFunction\ReturnTypeFunction\obj\Debug\ReturnTypeFunction.csproj.AssemblyReference.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\ReturnTypeFunction\ReturnTypeFunction\obj\Debug\ReturnTypeFunction.csproj.CoreCompileInputs.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\ReturnTypeFunction\ReturnTypeFunction\obj\Debug\ReturnTypeFunction.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\ReturnTypeFunction\ReturnTypeFunction\obj\Debug\ReturnTypeFunction.pdb

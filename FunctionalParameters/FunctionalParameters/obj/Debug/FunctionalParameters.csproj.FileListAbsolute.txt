@@ -1,0 +1,7 @@
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\FunctionalParameters\FunctionalParameters\bin\Debug\FunctionalParameters.exe.config
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\FunctionalParameters\FunctionalParameters\bin\Debug\FunctionalParameters.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\FunctionalParameters\FunctionalParameters\bin\Debug\FunctionalParameters.pdb
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\FunctionalParameters\FunctionalParameters\obj\Debug\FunctionalParameters.csproj.AssemblyReference.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\FunctionalParameters\FunctionalParameters\obj\Debug\FunctionalParameters.csproj.CoreCompileInputs.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\FunctionalParameters\FunctionalParameters\obj\Debug\FunctionalParameters.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\FunctionalParameters\FunctionalParameters\obj\Debug\FunctionalParameters.pdb
