@@ -1,0 +1,7 @@
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\ReferenceParameters\ReferenceParameters\bin\Debug\ReferenceParameters.exe.config
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\ReferenceParameters\ReferenceParameters\bin\Debug\ReferenceParameters.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\ReferenceParameters\ReferenceParameters\bin\Debug\ReferenceParameters.pdb
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.csproj.AssemblyReference.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.csproj.CoreCompileInputs.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\ReferenceParameters\ReferenceParameters\obj\Debug\ReferenceParameters.pdb

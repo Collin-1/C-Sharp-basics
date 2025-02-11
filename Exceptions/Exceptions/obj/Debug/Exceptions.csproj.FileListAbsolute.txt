@@ -1,0 +1,7 @@
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Documents\Personal Projects\C-Sharp-basics\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
