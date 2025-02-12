@@ -1,0 +1,7 @@
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Desktop\C-Sharp-basics\RsaIdValidator\RsaIdValidator\bin\Debug\RsaIdValidator.exe.config
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Desktop\C-Sharp-basics\RsaIdValidator\RsaIdValidator\bin\Debug\RsaIdValidator.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Desktop\C-Sharp-basics\RsaIdValidator\RsaIdValidator\bin\Debug\RsaIdValidator.pdb
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Desktop\C-Sharp-basics\RsaIdValidator\RsaIdValidator\obj\Debug\RsaIdValidator.csproj.AssemblyReference.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Desktop\C-Sharp-basics\RsaIdValidator\RsaIdValidator\obj\Debug\RsaIdValidator.csproj.CoreCompileInputs.cache
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Desktop\C-Sharp-basics\RsaIdValidator\RsaIdValidator\obj\Debug\RsaIdValidator.exe
+C:\Users\Collin.Makwala\OneDrive - Ogilvy\Desktop\C-Sharp-basics\RsaIdValidator\RsaIdValidator\obj\Debug\RsaIdValidator.pdb
