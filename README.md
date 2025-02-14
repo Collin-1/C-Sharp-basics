@@ -42,7 +42,7 @@ dotnet ef database update
 #### Open Visual Studio
 To open the project on visual studio run the below commands on the terminal:
 ```
-start devenv SampleCRUDMVC/SampleCRUDMVC.sln
+start devenv SampleCRUDMVC.sln
 ```
 
 Launch the app and click employees to view, add, delete, and edit employees.
