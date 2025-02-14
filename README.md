@@ -9,6 +9,11 @@ git clone https://github.com/Collin-1/C-Sharp-basics.git
 cd C-Sharp-basics/
 ```
 ## Run project
+
+Go to the MVC branch by running the command on terminal:  
+```
+git checkout MVC
+```
 #### Start docker-compose
 I used a docker-compose file to run an MS SQL server, so to run the project you will need to start the docker compose file by running the following command:
 ```
