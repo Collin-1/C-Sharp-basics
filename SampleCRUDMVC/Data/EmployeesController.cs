@@ -12,10 +12,12 @@ namespace SampleCRUDMVC.Data
     public class EmployeesController : Controller
     {
         private readonly ApplicationDbContext _context;
+        private readonly IWebHostEnvironment _environment;
 
-        public EmployeesController(ApplicationDbContext context)
+        public EmployeesController(ApplicationDbContext context, IWebHostEnvironment environment)
         {
             _context = context;
+            _environment = environment;
         }
 
         // GET: Employees
@@ -49,14 +51,32 @@ namespace SampleCRUDMVC.Data
         }
 
         // POST: Employees/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,FirstName,MiddleName,LastName,PhoneNumber,EmailAddress,Gender,Country")] Employee employee)
+        public async Task<IActionResult> Create(Employee employee, IFormFile? ImageFile)
         {
             if (ModelState.IsValid)
             {
+                if (ImageFile != null && ImageFile.Length > 0)
+                {
+                    var uploadsFolder = Path.Combine(_environment.WebRootPath, "uploads");
+                    if (!Directory.Exists(uploadsFolder))
+                    {
+                        Directory.CreateDirectory(uploadsFolder);
+                    }
+
+                    var uniqueFileName = Guid.NewGuid().ToString() +
+                                           Path.GetExtension(ImageFile.FileName);
+                    var filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+                    using (var fileStream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await ImageFile.CopyToAsync(fileStream);
+                    }
+
+                    employee.Image = "/uploads/" + uniqueFileName;
+                }
+
                 _context.Add(employee);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -81,34 +101,55 @@ namespace SampleCRUDMVC.Data
         }
 
         // POST: Employees/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,FirstName,MiddleName,LastName,PhoneNumber,EmailAddress,Gender,Country")] Employee employee)
+        public async Task<IActionResult> Edit(int id, Employee employee, IFormFile? ImageFile)
         {
-            if (id != employee.Id)
-            {
-                return NotFound();
-            }
+            if (id != employee.Id) return NotFound();
 
             if (ModelState.IsValid)
             {
+                var existingEmployee = await _context.Employees.FindAsync(id);
+                if (existingEmployee == null) return NotFound();
+
+                existingEmployee.FirstName = employee.FirstName;
+                existingEmployee.MiddleName = employee.MiddleName;
+                existingEmployee.LastName = employee.LastName;
+                existingEmployee.PhoneNumber = employee.PhoneNumber;
+                existingEmployee.EmailAddress = employee.EmailAddress;
+                existingEmployee.Gender = employee.Gender;
+                existingEmployee.Country = employee.Country;
+
+                if (ImageFile != null && ImageFile.Length > 0)
+                {
+                    var uploadsFolder = Path.Combine(_environment.WebRootPath, "uploads");
+                    if (!Directory.Exists(uploadsFolder))
+                    {
+                        Directory.CreateDirectory(uploadsFolder);
+                    }
+
+                    var uniqueFileName = Guid.NewGuid().ToString() + Path.GetExtension(ImageFile.FileName);
+                    var filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+                    using (var fileStream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await ImageFile.CopyToAsync(fileStream);
+                    }
+
+                    existingEmployee.Image = "/uploads/" + uniqueFileName;
+                }
+
                 try
                 {
-                    _context.Update(employee);
+                    _context.Update(existingEmployee);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!EmployeeExists(employee.Id))
-                    {
+                    if (!_context.Employees.Any(e => e.Id == employee.Id))
                         return NotFound();
-                    }
                     else
-                    {
                         throw;
-                    }
                 }
                 return RedirectToAction(nameof(Index));
             }

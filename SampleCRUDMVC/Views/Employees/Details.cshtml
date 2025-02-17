@@ -53,6 +53,14 @@
             @Html.DisplayFor(model => model.Country)
         </dd>
     </dl>
+
+    @if (!string.IsNullOrEmpty(Model.Image))
+    {
+        <div class="form-group">
+            <img src="@Model.Image" alt="Employee Image" style="max-width:200px;" />
+        </div>
+    }
+
 </div>
 <div>
     <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |

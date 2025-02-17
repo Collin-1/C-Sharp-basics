@@ -19,7 +19,7 @@ I used a docker-compose file to run an MS SQL server, so to run the project you 
 ```
 docker-compose up
 ```
-Docker will run to services, :
+Docker will run two services, adminer and sql-server-db:
 To login in adminer use the below credentials but only after you have ran the migrations:
 
 ```
