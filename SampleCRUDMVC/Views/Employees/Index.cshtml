@@ -5,7 +5,13 @@
 }
 
 <h1>Index</h1>
-
+@using (Html.BeginForm("Index", "Employees", FormMethod.Get))
+{
+    <p>
+        Search: <input type="text" name="searchString" value="@Context.Request.Query["searchString"]" />
+        <input type="submit" value="Search" />
+    </p>
+}
 <p>
     <a asp-action="Create">Create New</a>
 </p>
@@ -32,6 +38,18 @@
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Country)
+            </th>            
+            <th>
+                @Html.DisplayNameFor(model => model.yearsAtCompany)
+            </th>            
+            <th>
+                @Html.DisplayNameFor(model => model.JobTiltle)
+            </th>            
+            <th>
+                @Html.DisplayNameFor(model => model.Seniority)
+            </th>            
+            <th>
+                @Html.DisplayNameFor(model => model.Department)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Image)
@@ -62,6 +80,18 @@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Country)
+            </td>            
+            <td>
+                    @Html.DisplayFor(modelItem => item.yearsAtCompany)
+            </td>            
+            <td>
+                    @Html.DisplayFor(modelItem => item.JobTiltle)
+            </td>            
+            <td>
+                    @Html.DisplayFor(modelItem => item.Seniority)
+            </td>            
+            <td>
+                    @Html.DisplayFor(modelItem => item.Department)
             </td>
             <td>
                 @if (!string.IsNullOrEmpty(item.Image))

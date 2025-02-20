@@ -10,6 +10,10 @@
         public required string EmailAddress { get; set; }
         public required string Gender { get; set; }
         public required string Country { get; set; }
+        public required string yearsAtCompany { get; set; }
+        public required string JobTiltle { get; set; }
+        public required string Seniority { get; set; }
+        public required string Department { get; set; }
         public string? Image { get; set; }
     }
 }
