@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCRUDMVC", "SampleCRUDMVC.csproj", "{48736D23-05B8-4CF6-A660-8109097DE9BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleCRUDMVC.Test", "..\SampleCRUDMVC.Test\SampleCRUDMVC.Test.csproj", "{50A6B6EF-399D-4578-AF30-1297B2D17C5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{48736D23-05B8-4CF6-A660-8109097DE9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48736D23-05B8-4CF6-A660-8109097DE9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48736D23-05B8-4CF6-A660-8109097DE9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A6B6EF-399D-4578-AF30-1297B2D17C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A6B6EF-399D-4578-AF30-1297B2D17C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A6B6EF-399D-4578-AF30-1297B2D17C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A6B6EF-399D-4578-AF30-1297B2D17C5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
